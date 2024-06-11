@@ -9,6 +9,12 @@ Questions:
 Define Software Engineering:
 
 What is software engineering, and how does it differ from traditional programming?
+Software engineering is a systematic approach to the development, operation, and maintenance of software. 
+Differences:
+Scope: Software engineering encompasses the entire software development process, including planning, design, testing, and maintenance, while traditional programming typically focuses on writing code to solve specific problems.
+Methodology: Software engineering emphasizes the use of systematic and disciplined approaches to software development, such as Agile, Waterfall, or DevOps, while traditional programming may involve ad-hoc or informal coding practices.
+Quality Assurance: Software engineering places a strong emphasis on quality assurance, including testing, debugging, and maintenance, to ensure the reliability and robustness of the software, whereas traditional programming may have a narrower focus on writing code without as much emphasis on comprehensive testing and maintenance.
+Team Collaboration: Software engineering often involves collaboration among multidisciplinary teams, including developers, testers, project managers, and stakeholders, while traditional programming may be more individual-focused.
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
