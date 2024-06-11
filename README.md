@@ -9,16 +9,32 @@ Questions:
 Define Software Engineering:
 
 What is software engineering, and how does it differ from traditional programming?
+Software engineering is a systematic approach to the development, operation, and maintenance of software. 
+Differences:
+Scope: Software engineering encompasses the entire software development process, including planning, design, testing, and maintenance, while traditional programming typically focuses on writing code to solve specific problems.
+Methodology: Software engineering emphasizes the use of systematic and disciplined approaches to software development, such as Agile, Waterfall, or DevOps, while traditional programming may involve ad-hoc or informal coding practices.
+Quality Assurance: Software engineering places a strong emphasis on quality assurance, including testing, debugging, and maintenance, to ensure the reliability and robustness of the software, whereas traditional programming may have a narrower focus on writing code without as much emphasis on comprehensive testing and maintenance.
+Team Collaboration: Software engineering often involves collaboration among multidisciplinary teams, including developers, testers, project managers, and stakeholders, while traditional programming may be more individual-focused.
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+1. Planning - In this phase, the project leads to defining the project’s purpose and the desired result.
+2. Requirements - Here, the project lead analyzes the product or client’s goals and decides on the features to aim for as a final goal.
+3. Design and Prototype - The design phase defines how a software application will work. During this phase, teams decide on the programming language, screen layouts, and relevant documentation they will use.
+4. Software Development - During this phase, developers start programming
+5. Testing - During this phase, different types of testing occur, such as code quality, unit testing, integration testing, performance testing, and security testing
+6. Deployment - The team ensures that the software is up-to-date and secure enough for users and pushes it from the development environment to a live environment–usually an app store.
+7. Maintenance - bugs or errors missed during testing are bound to appear. Simultaneously, by studying user behavior and feedback, the team can start to think about and plan for upgrades.
+   
 Agile vs. Waterfall Models:
-
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Waterfall is a more traditional approach to project management, involving a linear flow. Agile, on the other hand, embraces an iterative process. It involves rapid actions and great flexibility.
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+Requirements engineering is the process of defining, documenting, and maintaining requirements in the engineering design process
+
+
 Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
