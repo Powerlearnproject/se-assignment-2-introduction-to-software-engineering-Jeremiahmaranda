@@ -24,13 +24,32 @@ Compare and contrast the Agile and Waterfall models of software development. Wha
 Waterfall is a more traditional approach to project management, involving a linear flow. Agile, on the other hand, embraces an iterative process. It involves rapid actions and great flexibility.
 Requirements Engineering:
 
-What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+What is requirements engineering?
+Describe the process and its importance in the software development lifecycle.
+Requirements Engineering is the process of identifying, eliciting, analyzing, specifying, validating, and managing the needs and expectations of stakeholders for a software system
+process
+1) Feasibility Study
+2) Requirements elicitation
+3) Requirements specification
+4) Requirements for verification and validation
+5) Requirements management
 Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+Modularity in software design is a technique where complex software is divided into smaller, independent modules, such as functions, classes, or components. It facilitates easier management and understanding of complex systems by breaking them down into digestible parts.
+
+Ease of Reading: Software becomes more readable as it's separated into specific functions handling distinct aspects of the overall functionality.
+Simpler Testing: Testing is more straightforward and detailed when focusing on smaller, singular-function modules.
+System Focus: Developers can concentrate on individual system parts without affecting the entire system, enhancing development efficiency.
+Code Organization: Grouping similar functions into files and libraries makes finding specific code easier, streamlining development.
+
 Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+1) Unit testing is a software testing process for testing specific units, components, or software elements
+2) Integration testing which is when different software components and modules are combined and tested as a group to make sure everything is ready for the next level.
+3) System testing - This checks for a system’s compliance in accordance with the necessary given requirements.
+4) Acceptance testing - What makes this level different from the rest is that it’s conducted by the user or customer since the goal is to find out if the requirements have been met on delivery of the final product.
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
